@@ -6,7 +6,7 @@
 /**
  * main - main function
  *
- * Return aylways 0
+ * Return: aylways 0
  */
 int main(void)
 {
