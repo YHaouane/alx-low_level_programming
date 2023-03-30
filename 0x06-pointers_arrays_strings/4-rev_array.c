@@ -1,5 +1,3 @@
-4-rev_array.c
-
 #include "main.h"
 /**
  * reverse_array - reverse array
@@ -18,4 +16,3 @@ for (i = 0; (i < (n - 1) / 2); i++)
 	a[n - 1 - i] = c;
 	}
 }
-
