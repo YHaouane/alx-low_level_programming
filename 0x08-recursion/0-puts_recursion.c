@@ -4,7 +4,6 @@
  * @s:string
  * Return:void
  */
-
 void _puts_recursion(char *s)
 {
 if (*s)

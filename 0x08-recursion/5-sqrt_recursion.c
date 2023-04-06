@@ -28,4 +28,3 @@ int _sqrt_recursion(int n)
 	return (check(1, n));
 }
 
-
